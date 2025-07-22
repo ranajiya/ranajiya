@@ -1,10 +1,8 @@
-🚀 Welcome to My Space
+# 🚀  Hi, I'm Jiya Rana  👋
 
-👋 Hi, I'm Jiya Rana
+I’m a Java Backend Developer focused on building robust, secure, and scalable applications. With a strong foundation in Spring Boot and hands-on experience in API development, microservices, and new bee in open-source contributions, I thrive on solving complex backend problems and optimizing system performance.
 
-I’m a Java Backend Developer focused on building robust, secure, and scalable applications. With a strong foundation in Spring Boot and hands-on experience in API development, microservices, and open-source contributions, I thrive on solving complex backend problems and optimizing system performance.
-
-> "Behind great user experiences is an invisible but powerful system — I build that system."
+> "Behind great user experiences is an invisible but powerful system — My focus area."
 
 ---
 
@@ -51,13 +49,7 @@ I’m a Java Backend Developer focused on building robust, secure, and scalable 
 Live match updates and player statistics using Java Spring Boot & React.  
 🛠️ *Java · Spring Boot · REST API · React · Tailwind CSS*
 
-### 🛍️ **Thapa React E-Commerce**  
-Frontend e-commerce app using context API for cart and user flow.  
-🛠️ *React · Tailwind CSS · Netlify*
 
-### 💡 **AKHQ Open Source Contributor**  
-Contributed to thread health check logic in a Kafka admin UI platform.  
-🛠️ *Java · Micronaut · Gradle*
 
 ---
 
