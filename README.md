@@ -52,13 +52,12 @@ Live match updates and player statistics using Java Spring Boot & React.
 ### 🎯 **YC Directory**  
 Startup ideas for virtual pitch competitions, browse other pitches, and gain exposure.
 🛠️ *React 19 · Sanity · Taiwind CSS · ShadCN · TypeScript*
-[![View Live](https://yc-directory-ranajiyas-projects.vercel.app)
+[![Website](https://img.shields.io/website)](https://yc-directory-ranajiyas-projects.vercel.app)
 
 ### 🎯 **Apple Clone**  
 Name says alone! Just make it with curiosity.
 🛠️ *React 19 · ThreeJs · Taiwind CSS · JavaScript*
-[![View Live](https://ranajiya.github.io/apple-clone)
-
+[![Website](https://img.shields.io/website)](https://ranajiya.github.io/apple-clone) 
 
 ---
 
@@ -78,7 +77,10 @@ Name says alone! Just make it with curiosity.
 
 ## 🤝 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiya-rana)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranajiya)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranajiya563)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gokuo)
+
 
 ---
 
