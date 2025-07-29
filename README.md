@@ -49,6 +49,15 @@ I’m a Java Backend Developer focused on building robust, secure, and scalable 
 Live match updates and player statistics using Java Spring Boot & React.  
 🛠️ *Java · Spring Boot · REST API · React · Tailwind CSS*
 
+### 🎯 **YC Directory**  
+Startup ideas for virtual pitch competitions, browse other pitches, and gain exposure.
+🛠️ *React 19 · Sanity · Taiwind CSS · ShadCN · TypeScript*
+[![View Live](https://yc-directory-ranajiyas-projects.vercel.app)
+
+### 🎯 **Apple Clone**  
+Name says alone! Just make it with curiosity.
+🛠️ *React 19 · ThreeJs · Taiwind CSS · JavaScript*
+[![View Live](https://ranajiya.github.io/apple-clone)
 
 
 ---
@@ -64,7 +73,6 @@ Live match updates and player statistics using Java Spring Boot & React.
 - Deepen expertise in Java backend systems  
 - Learn Kafka & Kubernetes  
 - Contribute more to open-source Java projects  
-- Grow daily on GitHub with consistency  
 
 ---
 
